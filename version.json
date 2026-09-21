@@ -1,5 +1,7 @@
 {
    "version": "1.0.1",
    "url": "https://raw.githubusercontent.com/Think-notify/esp32c6-modbus-firmware/refs/heads/main/firmware_v1.0.1.bin",
-   "target_mac": "58:E6:C5:D4:70:18"
+   "allowed_macs": [
+      "58:E6:C5:D4:70:18"
+   ]
 }
